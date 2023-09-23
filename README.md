@@ -1,2 +1,2 @@
 # auto_tests_course
-https://stepik.org/course/575
+This repository contains Python testing scripts from course "Automation of testing with Selenium and Python" (https://stepik.org/course/575).
